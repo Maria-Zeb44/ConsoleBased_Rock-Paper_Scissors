@@ -157,7 +157,7 @@ void Game::play() {
 
 	cout << "==========================================\n";
 	cout << " WELCOME TO ROCK, PAPER, SCISSORS GAME\n";
-	cout << "==========================================\n";
+	cout << "==========================================\n\n";
 	cout << "First to score 3 points wins the match!\n\n";
 
 	while (playerScore < 3 && computerScore < 3)
